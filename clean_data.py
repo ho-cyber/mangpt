@@ -109,7 +109,7 @@ def process_file(filepath):
 
         cleaned_msg = {
             "content": content,
-            "author": (author.get("nickname") or author.get("name", "unknown")).strip(),
+            "author": "userCalled",
             "timestamp": msg.get("timestamp", ""),
             "channel": channel_info.get("name", ""),
             "category": channel_info.get("category", ""),
