@@ -1,0 +1,4703 @@
+{
+  "guild": {
+    "id": "1369201318098370571",
+    "name": "ChatWare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1369201318098370571/a3f93f442affbf33472ed49fd6b72a00.png?size=512"
+  },
+  "channel": {
+    "id": "1369297667624276098",
+    "type": "GuildTextChat",
+    "categoryId": "1369213060262269050",
+    "category": "Niches",
+    "name": "⚽-sports-discussion",
+    "topic": "For all my ball loving homies"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-03-23T16:43:13.2507917+05:30",
+  "messages": [
+    {
+      "id": "1369991120150593557",
+      "type": "Default",
+      "timestamp": "2025-05-08T16:25:36.248+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For all my ball loving homies",
+      "author": {
+        "id": "1369194773000228927",
+        "name": "iammanware",
+        "discriminator": "0000",
+        "nickname": "man_x64",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369216936222789702",
+            "name": "Matrix Overlord",
+            "color": "#9B59B6",
+            "position": 53
+          },
+          {
+            "id": "1408138188685574154",
+            "name": "Director of Yapping",
+            "color": "#3498DB",
+            "position": 43
+          },
+          {
+            "id": "1408137861261168721",
+            "name": "NPC Manager",
+            "color": "#1ABC9C",
+            "position": 42
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1408140411150794842",
+            "name": "QOTD",
+            "color": "#F65555",
+            "position": 33
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369696196515598428",
+            "name": "Nakama 仲間",
+            "color": "#E76A27",
+            "position": 15
+          },
+          {
+            "id": "1408368681917874288",
+            "name": "Nerds",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1416503511046164500",
+            "name": "C/Cpp",
+            "color": "#3498DB",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1369194773000228927/6dbc79a746fc1548c953123d731cf7ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1372938515368771718",
+      "type": "Default",
+      "timestamp": "2025-05-16T19:37:30.028+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/playing-golf-ball-mae-muller-i-just-came-to-dance-song-fidgeting-the-golf-ball-shuffling-balls-on-my-hand-gif-27129130",
+      "author": {
+        "id": "619144114713395220",
+        "name": "djdoomer",
+        "discriminator": "0000",
+        "nickname": "Dj Doomer",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369695354152554506",
+            "name": "Board of Free Will Inc.",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697510964334773",
+            "name": "Rust \uD83E\uDD80",
+            "color": "#E93C3C",
+            "position": 19
+          },
+          {
+            "id": "1369694666299015178",
+            "name": "Homie 兄",
+            "color": "#2ECC71",
+            "position": 16
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619144114713395220/e0ee908ebdbf30c19098a487ed3010ab.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/playing-golf-ball-mae-muller-i-just-came-to-dance-song-fidgeting-the-golf-ball-shuffling-balls-on-my-hand-gif-27129130",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5rvfjfKzvL3XWUcEPf-0HDJ8YQItG1waUAxmefQkXCQ/https/media.tenor.com/I9IXG5qIE5sAAAAe/playing-golf-ball-mae-muller.png",
+            "canonicalUrl": "https://media.tenor.com/I9IXG5qIE5sAAAAe/playing-golf-ball-mae-muller.png",
+            "width": 640,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/PRKyteuNsxdPr1YQaZhN5qmPWLWbm7pOgc8gzbY1U5c/https/media.tenor.com/I9IXG5qIE5sAAAPo/playing-golf-ball-mae-muller.mp4",
+            "canonicalUrl": "https://media.tenor.com/I9IXG5qIE5sAAAPo/playing-golf-ball-mae-muller.mp4",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1372938957473583185",
+      "type": "Default",
+      "timestamp": "2025-05-16T19:39:15.434+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I love to play with my friend's balls bcos my balls are weak",
+      "author": {
+        "id": "619144114713395220",
+        "name": "djdoomer",
+        "discriminator": "0000",
+        "nickname": "Dj Doomer",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369695354152554506",
+            "name": "Board of Free Will Inc.",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697510964334773",
+            "name": "Rust \uD83E\uDD80",
+            "color": "#E93C3C",
+            "position": 19
+          },
+          {
+            "id": "1369694666299015178",
+            "name": "Homie 兄",
+            "color": "#2ECC71",
+            "position": 16
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619144114713395220/e0ee908ebdbf30c19098a487ed3010ab.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1369993679472689332",
+            "name": "laughing2",
+            "code": "laughing2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1369993679472689332.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1369194773000228927",
+              "name": "iammanware",
+              "discriminator": "0000",
+              "nickname": "man_x64",
+              "color": "#9B59B6",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1369194773000228927/6dbc79a746fc1548c953123d731cf7ad.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1373322119303135266",
+      "type": "Default",
+      "timestamp": "2025-05-17T21:01:48.333+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wtf homie",
+      "author": {
+        "id": "1365537280302907392",
+        "name": "zedmakesense",
+        "discriminator": "0000",
+        "nickname": "zed",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1365537280302907392/7213ab4c126067613a495ca1a5d5bfe9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1373334913780023448",
+      "type": "Reply",
+      "timestamp": "2025-05-17T21:52:38.774+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does your friend have an extra pair ?:happyblush:",
+      "author": {
+        "id": "716224251941879888",
+        "name": "777.14",
+        "discriminator": "0000",
+        "nickname": "deleted",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716224251941879888/0612cfffdc33b041831ef7759974e260.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "619144114713395220",
+          "name": "djdoomer",
+          "discriminator": "0000",
+          "nickname": "Dj Doomer",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369695354152554506",
+              "name": "Board of Free Will Inc.",
+              "color": "#E91E63",
+              "position": 52
+            },
+            {
+              "id": "1375791944331952149",
+              "name": "ORIGINAL GANGSTA",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1378358143221764169",
+              "name": "Giga Chads",
+              "color": null,
+              "position": 40
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696624133279785",
+              "name": "Windows \uD83E\uDE9F",
+              "color": "#206694",
+              "position": 28
+            },
+            {
+              "id": "1369697039243284661",
+              "name": "Frontend",
+              "color": "#E74C3C",
+              "position": 26
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            },
+            {
+              "id": "1369697510964334773",
+              "name": "Rust \uD83E\uDD80",
+              "color": "#E93C3C",
+              "position": 19
+            },
+            {
+              "id": "1369694666299015178",
+              "name": "Homie 兄",
+              "color": "#2ECC71",
+              "position": 16
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/619144114713395220/e0ee908ebdbf30c19098a487ed3010ab.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1372938957473583185",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": [
+        {
+          "id": "1369993666910748693",
+          "name": "happyblush",
+          "code": "happyblush",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1369993666910748693.png"
+        }
+      ]
+    },
+    {
+      "id": "1374051112436367430",
+      "type": "Reply",
+      "timestamp": "2025-05-19T21:18:33.84+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He always brings 2 of them in case we lose one",
+      "author": {
+        "id": "619144114713395220",
+        "name": "djdoomer",
+        "discriminator": "0000",
+        "nickname": "Dj Doomer",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369695354152554506",
+            "name": "Board of Free Will Inc.",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697510964334773",
+            "name": "Rust \uD83E\uDD80",
+            "color": "#E93C3C",
+            "position": 19
+          },
+          {
+            "id": "1369694666299015178",
+            "name": "Homie 兄",
+            "color": "#2ECC71",
+            "position": 16
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619144114713395220/e0ee908ebdbf30c19098a487ed3010ab.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "716224251941879888",
+          "name": "777.14",
+          "discriminator": "0000",
+          "nickname": "deleted",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369696624133279785",
+              "name": "Windows \uD83E\uDE9F",
+              "color": "#206694",
+              "position": 28
+            },
+            {
+              "id": "1369697188938121398",
+              "name": "AIML",
+              "color": "#0D0808",
+              "position": 23
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369972499395248228",
+              "name": "leave me alone",
+              "color": "#D4D4D4",
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/716224251941879888/0612cfffdc33b041831ef7759974e260.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1373334913780023448",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1374062111344296056",
+      "type": "Reply",
+      "timestamp": "2025-05-19T22:02:16.184+05:30",
+      "timestampEdited": "2025-05-19T22:02:29.574+05:30",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":evilware: thanks for information \nTake care of those I'm gonna come for one :smartpretend2:",
+      "author": {
+        "id": "716224251941879888",
+        "name": "777.14",
+        "discriminator": "0000",
+        "nickname": "deleted",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716224251941879888/0612cfffdc33b041831ef7759974e260.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "619144114713395220",
+          "name": "djdoomer",
+          "discriminator": "0000",
+          "nickname": "Dj Doomer",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369695354152554506",
+              "name": "Board of Free Will Inc.",
+              "color": "#E91E63",
+              "position": 52
+            },
+            {
+              "id": "1375791944331952149",
+              "name": "ORIGINAL GANGSTA",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1378358143221764169",
+              "name": "Giga Chads",
+              "color": null,
+              "position": 40
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696624133279785",
+              "name": "Windows \uD83E\uDE9F",
+              "color": "#206694",
+              "position": 28
+            },
+            {
+              "id": "1369697039243284661",
+              "name": "Frontend",
+              "color": "#E74C3C",
+              "position": 26
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            },
+            {
+              "id": "1369697510964334773",
+              "name": "Rust \uD83E\uDD80",
+              "color": "#E93C3C",
+              "position": 19
+            },
+            {
+              "id": "1369694666299015178",
+              "name": "Homie 兄",
+              "color": "#2ECC71",
+              "position": 16
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/619144114713395220/e0ee908ebdbf30c19098a487ed3010ab.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1374051112436367430",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": [
+        {
+          "id": "1369993650549035118",
+          "name": "evilware",
+          "code": "evilware",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1369993650549035118.png"
+        },
+        {
+          "id": "1369993754051739682",
+          "name": "smartpretend2",
+          "code": "smartpretend2",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1369993754051739682.png"
+        }
+      ]
+    },
+    {
+      "id": "1374350309136269444",
+      "type": "Reply",
+      "timestamp": "2025-05-20T17:07:27.892+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "U can cum and take as many balls as u can \uD83D\uDE0A",
+      "author": {
+        "id": "619144114713395220",
+        "name": "djdoomer",
+        "discriminator": "0000",
+        "nickname": "Dj Doomer",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369695354152554506",
+            "name": "Board of Free Will Inc.",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697510964334773",
+            "name": "Rust \uD83E\uDD80",
+            "color": "#E93C3C",
+            "position": 19
+          },
+          {
+            "id": "1369694666299015178",
+            "name": "Homie 兄",
+            "color": "#2ECC71",
+            "position": 16
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619144114713395220/e0ee908ebdbf30c19098a487ed3010ab.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "716224251941879888",
+          "name": "777.14",
+          "discriminator": "0000",
+          "nickname": "deleted",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369696624133279785",
+              "name": "Windows \uD83E\uDE9F",
+              "color": "#206694",
+              "position": 28
+            },
+            {
+              "id": "1369697188938121398",
+              "name": "AIML",
+              "color": "#0D0808",
+              "position": 23
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369972499395248228",
+              "name": "leave me alone",
+              "color": "#D4D4D4",
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/716224251941879888/0612cfffdc33b041831ef7759974e260.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1374062111344296056",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE0A",
+          "code": "blush",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60a.svg"
+        }
+      ]
+    },
+    {
+      "id": "1405511116146081814",
+      "type": "Default",
+      "timestamp": "2025-08-14T16:49:23.223+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "any bayern fans here?",
+      "author": {
+        "id": "1069220878849675274",
+        "name": "anshumanneon",
+        "discriminator": "0000",
+        "nickname": "AnshumanNeon",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696910612496495",
+            "name": "Mac \uD83C\uDF4E",
+            "color": "#95A5A6",
+            "position": 31
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697600068128788",
+            "name": "Go \uD83C\uDFC3‍➡️",
+            "color": "#589EF4",
+            "position": 17
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1069220878849675274/46f84c97161e387848ffc2afa65ee406.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1405511142888964217",
+      "type": "Default",
+      "timestamp": "2025-08-14T16:49:29.599+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or any barca fans i can roast?",
+      "author": {
+        "id": "1069220878849675274",
+        "name": "anshumanneon",
+        "discriminator": "0000",
+        "nickname": "AnshumanNeon",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696910612496495",
+            "name": "Mac \uD83C\uDF4E",
+            "color": "#95A5A6",
+            "position": 31
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697600068128788",
+            "name": "Go \uD83C\uDFC3‍➡️",
+            "color": "#589EF4",
+            "position": 17
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1069220878849675274/46f84c97161e387848ffc2afa65ee406.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1405529773899513979",
+      "type": "Default",
+      "timestamp": "2025-08-14T18:03:31.578+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "inter fan",
+      "author": {
+        "id": "1276216824605966411",
+        "name": "zarion0887_76086",
+        "discriminator": "0000",
+        "nickname": "Zarion Zouken",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1408137861261168721",
+            "name": "NPC Manager",
+            "color": "#1ABC9C",
+            "position": 42
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1276216824605966411/a3367751e9135c5d56116d2c8306980d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1405781914874282065",
+      "type": "Reply",
+      "timestamp": "2025-08-15T10:45:26.671+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bayern better",
+      "author": {
+        "id": "1069220878849675274",
+        "name": "anshumanneon",
+        "discriminator": "0000",
+        "nickname": "AnshumanNeon",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696910612496495",
+            "name": "Mac \uD83C\uDF4E",
+            "color": "#95A5A6",
+            "position": 31
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697600068128788",
+            "name": "Go \uD83C\uDFC3‍➡️",
+            "color": "#589EF4",
+            "position": 17
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1069220878849675274/46f84c97161e387848ffc2afa65ee406.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1276216824605966411",
+          "name": "zarion0887_76086",
+          "discriminator": "0000",
+          "nickname": "Zarion Zouken",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1408137861261168721",
+              "name": "NPC Manager",
+              "color": "#1ABC9C",
+              "position": 42
+            },
+            {
+              "id": "1375791944331952149",
+              "name": "ORIGINAL GANGSTA",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697131530551316",
+              "name": "Web dev",
+              "color": "#0CC0D8",
+              "position": 24
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1276216824605966411/a3367751e9135c5d56116d2c8306980d.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1405529773899513979",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1405782976918327347",
+      "type": "Reply",
+      "timestamp": "2025-08-15T10:49:39.882+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok? I don't know what I am supposed to respond to that",
+      "author": {
+        "id": "1276216824605966411",
+        "name": "zarion0887_76086",
+        "discriminator": "0000",
+        "nickname": "Zarion Zouken",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1408137861261168721",
+            "name": "NPC Manager",
+            "color": "#1ABC9C",
+            "position": 42
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1276216824605966411/a3367751e9135c5d56116d2c8306980d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1069220878849675274",
+          "name": "anshumanneon",
+          "discriminator": "0000",
+          "nickname": "AnshumanNeon",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1375791944331952149",
+              "name": "ORIGINAL GANGSTA",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1378358143221764169",
+              "name": "Giga Chads",
+              "color": null,
+              "position": 40
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369696910612496495",
+              "name": "Mac \uD83C\uDF4E",
+              "color": "#95A5A6",
+              "position": 31
+            },
+            {
+              "id": "1369697108176801944",
+              "name": "Backend",
+              "color": "#B92727",
+              "position": 25
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            },
+            {
+              "id": "1369697600068128788",
+              "name": "Go \uD83C\uDFC3‍➡️",
+              "color": "#589EF4",
+              "position": 17
+            },
+            {
+              "id": "1369972499395248228",
+              "name": "leave me alone",
+              "color": "#D4D4D4",
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1069220878849675274/46f84c97161e387848ffc2afa65ee406.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1405781914874282065",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1405783830601793630",
+      "type": "Default",
+      "timestamp": "2025-08-15T10:53:03.416+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nothing man its fine",
+      "author": {
+        "id": "1069220878849675274",
+        "name": "anshumanneon",
+        "discriminator": "0000",
+        "nickname": "AnshumanNeon",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696910612496495",
+            "name": "Mac \uD83C\uDF4E",
+            "color": "#95A5A6",
+            "position": 31
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369697600068128788",
+            "name": "Go \uD83C\uDFC3‍➡️",
+            "color": "#589EF4",
+            "position": 17
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1069220878849675274/46f84c97161e387848ffc2afa65ee406.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1408536230236389376",
+      "type": "Reply",
+      "timestamp": "2025-08-23T01:10:06.626+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "1400915085416730724",
+        "name": "devmindset",
+        "discriminator": "0000",
+        "nickname": "BuildMindset",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696910612496495",
+            "name": "Mac \uD83C\uDF4E",
+            "color": "#95A5A6",
+            "position": 31
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697309910372536",
+            "name": "Java",
+            "color": "#D6AD0A",
+            "position": 21
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1069220878849675274",
+          "name": "anshumanneon",
+          "discriminator": "0000",
+          "nickname": "AnshumanNeon",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1375791944331952149",
+              "name": "ORIGINAL GANGSTA",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1378358143221764169",
+              "name": "Giga Chads",
+              "color": null,
+              "position": 40
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369696910612496495",
+              "name": "Mac \uD83C\uDF4E",
+              "color": "#95A5A6",
+              "position": 31
+            },
+            {
+              "id": "1369697108176801944",
+              "name": "Backend",
+              "color": "#B92727",
+              "position": 25
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            },
+            {
+              "id": "1369697600068128788",
+              "name": "Go \uD83C\uDFC3‍➡️",
+              "color": "#589EF4",
+              "position": 17
+            },
+            {
+              "id": "1369972499395248228",
+              "name": "leave me alone",
+              "color": "#D4D4D4",
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1069220878849675274/46f84c97161e387848ffc2afa65ee406.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1405511142888964217",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1408536382863048735",
+      "type": "Reply",
+      "timestamp": "2025-08-23T01:10:43.015+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD25",
+      "author": {
+        "id": "1400915085416730724",
+        "name": "devmindset",
+        "discriminator": "0000",
+        "nickname": "BuildMindset",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369696910612496495",
+            "name": "Mac \uD83C\uDF4E",
+            "color": "#95A5A6",
+            "position": 31
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369696624133279785",
+            "name": "Windows \uD83E\uDE9F",
+            "color": "#206694",
+            "position": 28
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697309910372536",
+            "name": "Java",
+            "color": "#D6AD0A",
+            "position": 21
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1276216824605966411",
+          "name": "zarion0887_76086",
+          "discriminator": "0000",
+          "nickname": "Zarion Zouken",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1408137861261168721",
+              "name": "NPC Manager",
+              "color": "#1ABC9C",
+              "position": 42
+            },
+            {
+              "id": "1375791944331952149",
+              "name": "ORIGINAL GANGSTA",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697131530551316",
+              "name": "Web dev",
+              "color": "#0CC0D8",
+              "position": 24
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1276216824605966411/a3367751e9135c5d56116d2c8306980d.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1405529773899513979",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDD25",
+          "code": "fire",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+        }
+      ]
+    },
+    {
+      "id": "1408817093721194636",
+      "type": "Default",
+      "timestamp": "2025-08-23T19:46:09.699+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Djoker is the goat",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1412791836413530225",
+      "type": "Default",
+      "timestamp": "2025-09-03T19:00:22.204+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "spurs \uD83E\uDD0D",
+      "author": {
+        "id": "1127935847833030696",
+        "name": "vaishakhv",
+        "discriminator": "0000",
+        "nickname": "vaishakh :D",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1127935847833030696/5a1be26e41aa6eed2ae1d00306018ee9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD0D",
+          "code": "white_heart",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f90d.svg"
+        }
+      ]
+    },
+    {
+      "id": "1412791991594516582",
+      "type": "Default",
+      "timestamp": "2025-09-03T19:00:59.202+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/xavi-simons-rb-leipzing-soccer-gif-6845131263963873257",
+      "author": {
+        "id": "1127935847833030696",
+        "name": "vaishakhv",
+        "discriminator": "0000",
+        "nickname": "vaishakh :D",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1127935847833030696/5a1be26e41aa6eed2ae1d00306018ee9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/xavi-simons-rb-leipzing-soccer-gif-6845131263963873257",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pNLJvImB7Li_sL9-E6xJWmmL6gfarWszZ0KSF8WNB2c/https/media.tenor.com/Xv7KnhV8v-kAAAAe/xavi-simons-rb-leipzing.png",
+            "canonicalUrl": "https://media.tenor.com/Xv7KnhV8v-kAAAAe/xavi-simons-rb-leipzing.png",
+            "width": 281,
+            "height": 498
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/nGfSXJuxChad1Ur8X5v5prds74xv4SlzCzBW0Dp72-M/https/media.tenor.com/Xv7KnhV8v-kAAAPo/xavi-simons-rb-leipzing.mp4",
+            "canonicalUrl": "https://media.tenor.com/Xv7KnhV8v-kAAAPo/xavi-simons-rb-leipzing.mp4",
+            "width": 282,
+            "height": 498
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1412792147786203176",
+      "type": "Default",
+      "timestamp": "2025-09-03T19:01:36.441+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/dribbling-dribblare-kolo-muani-juve-juventus-gif-9857874152484628493",
+      "author": {
+        "id": "1127935847833030696",
+        "name": "vaishakhv",
+        "discriminator": "0000",
+        "nickname": "vaishakh :D",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1127935847833030696/5a1be26e41aa6eed2ae1d00306018ee9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/dribbling-dribblare-kolo-muani-juve-juventus-gif-9857874152484628493",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Z3oHl_HnkH9nesVcoaHNBOjr6C9EQ6Z_lgqVQdTO8ro/https/media.tenor.com/iM40T_tZ6A0AAAAe/dribbling-dribblare.png",
+            "canonicalUrl": "https://media.tenor.com/iM40T_tZ6A0AAAAe/dribbling-dribblare.png",
+            "width": 498,
+            "height": 373
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/Ay8sULK8xCORX-cweXvSr3XTD_roX96kZp70ldJGbHE/https/media.tenor.com/iM40T_tZ6A0AAAPo/dribbling-dribblare.mp4",
+            "canonicalUrl": "https://media.tenor.com/iM40T_tZ6A0AAAPo/dribbling-dribblare.mp4",
+            "width": 498,
+            "height": 374
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1412792214144286814",
+      "type": "Default",
+      "timestamp": "2025-09-03T19:01:52.262+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/palhinha-sportingcp-sporting-gif-23550619",
+      "author": {
+        "id": "1127935847833030696",
+        "name": "vaishakhv",
+        "discriminator": "0000",
+        "nickname": "vaishakh :D",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1127935847833030696/5a1be26e41aa6eed2ae1d00306018ee9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/palhinha-sportingcp-sporting-gif-23550619",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ebNfrxEYZG9vlmH213n4DDl1jgk3054xavFDgvX4kvs/https/media.tenor.com/x_hy1DKXRgoAAAAe/palhinha-sportingcp.png",
+            "canonicalUrl": "https://media.tenor.com/x_hy1DKXRgoAAAAe/palhinha-sportingcp.png",
+            "width": 640,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/xZnW1a9qQhLnNksF3m2MiNYMFvzjWTw5qBh1PC0Oefg/https/media.tenor.com/x_hy1DKXRgoAAAPo/palhinha-sportingcp.mp4",
+            "canonicalUrl": "https://media.tenor.com/x_hy1DKXRgoAAAPo/palhinha-sportingcp.mp4",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1412792238274248724",
+      "type": "Default",
+      "timestamp": "2025-09-03T19:01:58.015+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/kudus-gif-5965848742313824353",
+      "author": {
+        "id": "1127935847833030696",
+        "name": "vaishakhv",
+        "discriminator": "0000",
+        "nickname": "vaishakh :D",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1127935847833030696/5a1be26e41aa6eed2ae1d00306018ee9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/kudus-gif-5965848742313824353",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QQ5XujN40hapqGCr8m8lhUopkYtdfx18DKgUkN8JW68/https/media.tenor.com/Usrz0p1TkGEAAAAe/kudus.png",
+            "canonicalUrl": "https://media.tenor.com/Usrz0p1TkGEAAAAe/kudus.png",
+            "width": 480,
+            "height": 480
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/t9uBeLoPY5LXVd21mup5ZQxQteYf7wxL4bGXPtDg36k/https/media.tenor.com/Usrz0p1TkGEAAAPo/kudus.mp4",
+            "canonicalUrl": "https://media.tenor.com/Usrz0p1TkGEAAAPo/kudus.mp4",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1415436252018114581",
+      "type": "Default",
+      "timestamp": "2025-09-11T02:08:20.015+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "any combat sports fan here ? mma? boxing?",
+      "author": {
+        "id": "1080428725700673557",
+        "name": "zorointerminal",
+        "discriminator": "0000",
+        "nickname": "Zoro.sh",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1080428725700673557/e8cb5060a6368223aa3dbd7678f07b51.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1415439718107320555",
+      "type": "Reply",
+      "timestamp": "2025-09-11T02:22:06.395+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here \uD83D\uDC4B",
+      "author": {
+        "id": "834036959801245717",
+        "name": "clarence8371",
+        "discriminator": "0000",
+        "nickname": "ᑕᒪᗩᖇEᑎᑕE～さん",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369695354152554506",
+            "name": "Board of Free Will Inc.",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "1408138844401827920",
+            "name": "Executive Producer, Simulation™",
+            "color": "#E67E22",
+            "position": 46
+          },
+          {
+            "id": "1408138188685574154",
+            "name": "Director of Yapping",
+            "color": "#3498DB",
+            "position": 43
+          },
+          {
+            "id": "1408137861261168721",
+            "name": "NPC Manager",
+            "color": "#1ABC9C",
+            "position": 42
+          },
+          {
+            "id": "1375791944331952149",
+            "name": "ORIGINAL GANGSTA",
+            "color": null,
+            "position": 41
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1408140411150794842",
+            "name": "QOTD",
+            "color": "#F65555",
+            "position": 33
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1384557188688777277",
+            "name": "Godot",
+            "color": "#607D8B",
+            "position": 18
+          },
+          {
+            "id": "1369696196515598428",
+            "name": "Nakama 仲間",
+            "color": "#E76A27",
+            "position": 15
+          },
+          {
+            "id": "1416503511046164500",
+            "name": "C/Cpp",
+            "color": "#3498DB",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/834036959801245717/b53673d73f9485000135469e0bb2576e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1080428725700673557",
+          "name": "zorointerminal",
+          "discriminator": "0000",
+          "nickname": "Zoro.sh",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1080428725700673557/e8cb5060a6368223aa3dbd7678f07b51.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1415436252018114581",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4B",
+          "code": "wave",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44b.svg"
+        }
+      ]
+    },
+    {
+      "id": "1415586214873927711",
+      "type": "Reply",
+      "timestamp": "2025-09-11T12:04:13.946+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "+1",
+      "author": {
+        "id": "930740279479259146",
+        "name": "5tish9080",
+        "discriminator": "0000",
+        "nickname": "Piyush",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/930740279479259146/f2253eaa051bf4699c493d1ff48d986b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1080428725700673557",
+          "name": "zorointerminal",
+          "discriminator": "0000",
+          "nickname": "Zoro.sh",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1080428725700673557/e8cb5060a6368223aa3dbd7678f07b51.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1415436252018114581",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1415650271677382706",
+      "type": "Default",
+      "timestamp": "2025-09-11T16:18:46.278+05:30",
+      "timestampEdited": "2025-09-11T16:18:53.394+05:30",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thoughts on canelo vs crawford and diego lopse vs jean silva?",
+      "author": {
+        "id": "1080428725700673557",
+        "name": "zorointerminal",
+        "discriminator": "0000",
+        "nickname": "Zoro.sh",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1080428725700673557/e8cb5060a6368223aa3dbd7678f07b51.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424406250908815502",
+      "type": "20",
+      "timestamp": "2025-10-05T20:11:54.405+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "697487580522086431",
+        "name": "AutoMod",
+        "discriminator": "8695",
+        "nickname": "Police \uD83D\uDE94",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1385833951225970779",
+            "name": "AutoMod",
+            "color": null,
+            "position": 50
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/697487580522086431/932397508df8560ddf1514619184947c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":aYes: Deleted ``1/10`` messages from #⚽-sports-discussion.",
+          "color": "#44B37F",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "1143686149899047095",
+              "name": "aYes",
+              "code": "aYes",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/1143686149899047095.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1424406250266824745",
+        "name": "purge",
+        "user": {
+          "id": "732505125943246889",
+          "name": "dynamiccode",
+          "discriminator": "0000",
+          "nickname": "Dynamic Code",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369695354152554506",
+              "name": "Board of Free Will Inc.",
+              "color": "#E91E63",
+              "position": 52
+            },
+            {
+              "id": "1408138188685574154",
+              "name": "Director of Yapping",
+              "color": "#3498DB",
+              "position": 43
+            },
+            {
+              "id": "1408137861261168721",
+              "name": "NPC Manager",
+              "color": "#1ABC9C",
+              "position": 42
+            },
+            {
+              "id": "1375791944331952149",
+              "name": "ORIGINAL GANGSTA",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1378358143221764169",
+              "name": "Giga Chads",
+              "color": null,
+              "position": 40
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1408140411150794842",
+              "name": "QOTD",
+              "color": "#F65555",
+              "position": 33
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369696624133279785",
+              "name": "Windows \uD83E\uDE9F",
+              "color": "#206694",
+              "position": 28
+            },
+            {
+              "id": "1369697039243284661",
+              "name": "Frontend",
+              "color": "#E74C3C",
+              "position": 26
+            },
+            {
+              "id": "1369697108176801944",
+              "name": "Backend",
+              "color": "#B92727",
+              "position": 25
+            },
+            {
+              "id": "1369697131530551316",
+              "name": "Web dev",
+              "color": "#0CC0D8",
+              "position": 24
+            },
+            {
+              "id": "1369697188938121398",
+              "name": "AIML",
+              "color": "#0D0808",
+              "position": 23
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369697309910372536",
+              "name": "Java",
+              "color": "#D6AD0A",
+              "position": 21
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            },
+            {
+              "id": "1369697510964334773",
+              "name": "Rust \uD83E\uDD80",
+              "color": "#E93C3C",
+              "position": 19
+            },
+            {
+              "id": "1384557188688777277",
+              "name": "Godot",
+              "color": "#607D8B",
+              "position": 18
+            },
+            {
+              "id": "1369697600068128788",
+              "name": "Go \uD83C\uDFC3‍➡️",
+              "color": "#589EF4",
+              "position": 17
+            },
+            {
+              "id": "1369694666299015178",
+              "name": "Homie 兄",
+              "color": "#2ECC71",
+              "position": 16
+            },
+            {
+              "id": "1369696196515598428",
+              "name": "Nakama 仲間",
+              "color": "#E76A27",
+              "position": 15
+            },
+            {
+              "id": "1369972499395248228",
+              "name": "leave me alone",
+              "color": "#D4D4D4",
+              "position": 14
+            },
+            {
+              "id": "1412726330532958238",
+              "name": "Unemployed",
+              "color": null,
+              "position": 5
+            },
+            {
+              "id": "1416503511046164500",
+              "name": "C/Cpp",
+              "color": "#3498DB",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/732505125943246889/b1bb0bce2623ffd44e1660f05d9cfc0e.png?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1459960084472791081",
+      "type": "Default",
+      "timestamp": "2026-01-11T22:50:08.885+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone knwos where can i watch the classico final today for free?",
+      "author": {
+        "id": "617332894624514061",
+        "name": "justanotherdisappointment",
+        "discriminator": "0000",
+        "nickname": "Papi",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/617332894624514061/c1b7f7d81156147e298efbcfb789af9a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460196279127769286",
+      "type": "Reply",
+      "timestamp": "2026-01-12T14:28:42.079+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fmhy.net",
+      "author": {
+        "id": "702526640793714761",
+        "name": "hayato01_",
+        "discriminator": "0000",
+        "nickname": "....",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/702526640793714761/d913706e5dfe677ce2f4047ca12bcf24.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "617332894624514061",
+          "name": "justanotherdisappointment",
+          "discriminator": "0000",
+          "nickname": "Papi",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697108176801944",
+              "name": "Backend",
+              "color": "#B92727",
+              "position": 25
+            },
+            {
+              "id": "1369697188938121398",
+              "name": "AIML",
+              "color": "#0D0808",
+              "position": 23
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369972499395248228",
+              "name": "leave me alone",
+              "color": "#D4D4D4",
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/617332894624514061/c1b7f7d81156147e298efbcfb789af9a.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1459960084472791081",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460196305526722705",
+      "type": "Default",
+      "timestamp": "2026-01-12T14:28:48.373+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "search here",
+      "author": {
+        "id": "702526640793714761",
+        "name": "hayato01_",
+        "discriminator": "0000",
+        "nickname": "....",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/702526640793714761/d913706e5dfe677ce2f4047ca12bcf24.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1472956638204924181",
+      "type": "Reply",
+      "timestamp": "2026-02-16T19:33:48.759+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yoo this was really helpful..thanks alot bud",
+      "author": {
+        "id": "592641298360565761",
+        "name": "afzaadkhan",
+        "discriminator": "0000",
+        "nickname": "Afzaad Khan",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/592641298360565761/57ad4e34f8db8967bd298b480c4a3a90.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "702526640793714761",
+          "name": "hayato01_",
+          "discriminator": "0000",
+          "nickname": "....",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1378358143221764169",
+              "name": "Giga Chads",
+              "color": null,
+              "position": 40
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697039243284661",
+              "name": "Frontend",
+              "color": "#E74C3C",
+              "position": 26
+            },
+            {
+              "id": "1369697108176801944",
+              "name": "Backend",
+              "color": "#B92727",
+              "position": 25
+            },
+            {
+              "id": "1369697131530551316",
+              "name": "Web dev",
+              "color": "#0CC0D8",
+              "position": 24
+            },
+            {
+              "id": "1369697188938121398",
+              "name": "AIML",
+              "color": "#0D0808",
+              "position": 23
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/702526640793714761/d913706e5dfe677ce2f4047ca12bcf24.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1460196279127769286",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473412374923968713",
+      "type": "Reply",
+      "timestamp": "2026-02-18T01:44:44.86+05:30",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^^ really glad",
+      "author": {
+        "id": "702526640793714761",
+        "name": "hayato01_",
+        "discriminator": "0000",
+        "nickname": "....",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1408809549951139862",
+            "name": "\uD83E\uDD78news",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/702526640793714761/d913706e5dfe677ce2f4047ca12bcf24.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "592641298360565761",
+          "name": "afzaadkhan",
+          "discriminator": "0000",
+          "nickname": "Afzaad Khan",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697131530551316",
+              "name": "Web dev",
+              "color": "#0CC0D8",
+              "position": 24
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            },
+            {
+              "id": "1369972499395248228",
+              "name": "leave me alone",
+              "color": "#D4D4D4",
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/592641298360565761/57ad4e34f8db8967bd298b480c4a3a90.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1472956638204924181",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478839790639120607",
+      "type": "Reply",
+      "timestamp": "2026-03-05T01:11:21.603+05:30",
+      "timestampEdited": "2026-03-05T01:11:28.345+05:30",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "man i thought i was the only one who knew about this site",
+      "author": {
+        "id": "1182810125971501080",
+        "name": "xodobyte",
+        "discriminator": "0000",
+        "nickname": "[boob cult ceo] ✗odobyte",
+        "color": "#71368A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1408138350694502442",
+            "name": "VP of Propaganda",
+            "color": "#71368A",
+            "position": 44
+          },
+          {
+            "id": "1408138188685574154",
+            "name": "Director of Yapping",
+            "color": "#3498DB",
+            "position": 43
+          },
+          {
+            "id": "1408137861261168721",
+            "name": "NPC Manager",
+            "color": "#1ABC9C",
+            "position": 42
+          },
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1182810125971501080/60e8bebc7c7de4b25deca029aaeeb21c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "702526640793714761",
+          "name": "hayato01_",
+          "discriminator": "0000",
+          "nickname": "....",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1378358143221764169",
+              "name": "Giga Chads",
+              "color": null,
+              "position": 40
+            },
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697039243284661",
+              "name": "Frontend",
+              "color": "#E74C3C",
+              "position": 26
+            },
+            {
+              "id": "1369697108176801944",
+              "name": "Backend",
+              "color": "#B92727",
+              "position": 25
+            },
+            {
+              "id": "1369697131530551316",
+              "name": "Web dev",
+              "color": "#0CC0D8",
+              "position": 24
+            },
+            {
+              "id": "1369697188938121398",
+              "name": "AIML",
+              "color": "#0D0808",
+              "position": 23
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            },
+            {
+              "id": "1369697442458501171",
+              "name": "JS/TS",
+              "color": "#095BCC",
+              "position": 20
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/702526640793714761/d913706e5dfe677ce2f4047ca12bcf24.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1460196279127769286",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1484758583374778569",
+      "type": "Reply",
+      "timestamp": "2026-03-21T09:10:31.757+05:30",
+      "timestampEdited": "2026-03-21T09:19:13.836+05:30",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i am a karateka.... lol..",
+      "author": {
+        "id": "1323206201269420063",
+        "name": "yeahhh_sh",
+        "discriminator": "0000",
+        "nickname": "yeahhh_sh",
+        "color": "#266CF3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1378358143221764169",
+            "name": "Giga Chads",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1369694397985325136",
+            "name": "WareWolves \uD83D\uDC3A",
+            "color": "#266CF3",
+            "position": 39
+          },
+          {
+            "id": "1369961757044506625",
+            "name": "video addicts",
+            "color": "#8533AD",
+            "position": 38
+          },
+          {
+            "id": "1369959982405128234",
+            "name": "funny guy",
+            "color": "#2ECC71",
+            "position": 37
+          },
+          {
+            "id": "1369959892953202708",
+            "name": "nerd alert",
+            "color": "#FF0000",
+            "position": 36
+          },
+          {
+            "id": "1369959728272244807",
+            "name": "chill guy",
+            "color": "#00B0FD",
+            "position": 35
+          },
+          {
+            "id": "1369960085241204788",
+            "name": "distinguished progaymer",
+            "color": "#785B2B",
+            "position": 34
+          },
+          {
+            "id": "1369696832632131604",
+            "name": "Linux \uD83D\uDC27",
+            "color": "#F1C40F",
+            "position": 32
+          },
+          {
+            "id": "1369960575215603802",
+            "name": "chat",
+            "color": "#F31579",
+            "position": 30
+          },
+          {
+            "id": "1369697039243284661",
+            "name": "Frontend",
+            "color": "#E74C3C",
+            "position": 26
+          },
+          {
+            "id": "1369697108176801944",
+            "name": "Backend",
+            "color": "#B92727",
+            "position": 25
+          },
+          {
+            "id": "1369697131530551316",
+            "name": "Web dev",
+            "color": "#0CC0D8",
+            "position": 24
+          },
+          {
+            "id": "1369697188938121398",
+            "name": "AIML",
+            "color": "#0D0808",
+            "position": 23
+          },
+          {
+            "id": "1369697253501177936",
+            "name": "Python \uD83D\uDC0D",
+            "color": "#0A47A1",
+            "position": 22
+          },
+          {
+            "id": "1369697442458501171",
+            "name": "JS/TS",
+            "color": "#095BCC",
+            "position": 20
+          },
+          {
+            "id": "1384557188688777277",
+            "name": "Godot",
+            "color": "#607D8B",
+            "position": 18
+          },
+          {
+            "id": "1369972499395248228",
+            "name": "leave me alone",
+            "color": "#D4D4D4",
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323206201269420063/8bb7d0744e6730d3ba0e1964b2a737fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1080428725700673557",
+          "name": "zorointerminal",
+          "discriminator": "0000",
+          "nickname": "Zoro.sh",
+          "color": "#266CF3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1369694397985325136",
+              "name": "WareWolves \uD83D\uDC3A",
+              "color": "#266CF3",
+              "position": 39
+            },
+            {
+              "id": "1369961757044506625",
+              "name": "video addicts",
+              "color": "#8533AD",
+              "position": 38
+            },
+            {
+              "id": "1369959982405128234",
+              "name": "funny guy",
+              "color": "#2ECC71",
+              "position": 37
+            },
+            {
+              "id": "1369959892953202708",
+              "name": "nerd alert",
+              "color": "#FF0000",
+              "position": 36
+            },
+            {
+              "id": "1369959728272244807",
+              "name": "chill guy",
+              "color": "#00B0FD",
+              "position": 35
+            },
+            {
+              "id": "1369960085241204788",
+              "name": "distinguished progaymer",
+              "color": "#785B2B",
+              "position": 34
+            },
+            {
+              "id": "1369696832632131604",
+              "name": "Linux \uD83D\uDC27",
+              "color": "#F1C40F",
+              "position": 32
+            },
+            {
+              "id": "1369960575215603802",
+              "name": "chat",
+              "color": "#F31579",
+              "position": 30
+            },
+            {
+              "id": "1408809549951139862",
+              "name": "\uD83E\uDD78news",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1369697253501177936",
+              "name": "Python \uD83D\uDC0D",
+              "color": "#0A47A1",
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1080428725700673557/e8cb5060a6368223aa3dbd7678f07b51.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1415436252018114581",
+        "channelId": "1369297667624276098",
+        "guildId": "1369201318098370571"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 34
+}

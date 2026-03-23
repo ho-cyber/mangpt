@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "1369201318098370571",
+    "name": "ChatWare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1369201318098370571/a3f93f442affbf33472ed49fd6b72a00.png?size=512"
+  },
+  "channel": {
+    "id": "1369699247091355881",
+    "type": "GuildTextChat",
+    "categoryId": "1369201318928973864",
+    "category": "User Manual",
+    "name": "starboard",
+    "topic": "Best of the best"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-03-23T16:13:46.518305+05:30",
+  "messages": [],
+  "messageCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "1369201318098370571",
+    "name": "ChatWare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1369201318098370571/a3f93f442affbf33472ed49fd6b72a00.png?size=512"
+  },
+  "channel": {
+    "id": "1408491970749399070",
+    "type": "GuildTextChat",
+    "categoryId": "1408490857488711860",
+    "category": "Beyond The Matrix",
+    "name": "\uD83D\uDC51-vip-lounge",
+    "topic": "For the legends, By the legends, Of the legends"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-03-23T16:38:45.6626533+05:30",
+  "messages": [],
+  "messageCount": 0
+}
